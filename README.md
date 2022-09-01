@@ -1,2 +1,2 @@
 # stepik_auto_tests_course
-https://stepik.org/course/575/info
+Задания к курсу https://stepik.org/course/575/info
